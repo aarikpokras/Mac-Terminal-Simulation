@@ -1,2 +1,2 @@
 # Mac-Terminal-Simulation
-//[Duck Duck Go](https://link.com)
+Download [here](https://link.com)
